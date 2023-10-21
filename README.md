@@ -1,14 +1,26 @@
+***CODE PROGRESS***
+
 **Stuff Implemented:**
 
-Bus
+-Bus
 
 
 **Stuff Working On:**
 
-CPU Helper functions
+
+-CPU Helper Functions
+-Instruction Functions
 
 
 
 **Stuff To Do:**
 
-taking in instructions
+-taking in instructions
+
+
+
+
+***REFERENCES***
+
+https://www.masswerk.at/6502/6502_instruction_set.html
+

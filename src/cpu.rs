@@ -10,6 +10,23 @@ pub struct core6502 {
 
 }
 
+enum AddressingMode {
+	Accumulator,
+	Absolute,
+	AbsoluteX,
+	AbsoluteY,
+	Immediate,
+	Implied,
+	Indirect,
+	X_Indexed_Indirect,
+	Y_Indexed_Indirect,
+	Relative,
+	ZeroPage,
+	ZeroPageX,
+	ZeroPageY,
+
+}
+
 impl core6502 {
 
 	pub fn new(bus: Bus) -> Self {
@@ -24,6 +41,11 @@ impl core6502 {
 
 			bus: Bus,
 		}
+	}
+
+
+	fn execute_ADC(&mut self, mode: AddressingMode) {
+
 	}
 
 
