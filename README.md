@@ -1,14 +1,14 @@
-*Stuff Implemented:*
+**Stuff Implemented:**
 
 Bus
 
 
-*Stuff Working On:*
+**Stuff Working On:**
 
 CPU Helper functions
 
 
 
-*Stuff To Do:*
+**Stuff To Do:**
 
 taking in instructions
