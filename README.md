@@ -9,7 +9,10 @@
 
 
 -CPU Helper Functions
+
 -Instruction Functions
+
+-Clock function
 
 
 
